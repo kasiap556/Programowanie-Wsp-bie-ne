@@ -1,12 +1,8 @@
-# Programowanie-Wspobiezne
-Programowanie Współbieżne
 # Concurrent programming
+
 ## Working Group
-Name Surname (initials) GUID
-43
-AB
-*{FD9D086C-
-532F-4AAC-BB99-69D7798837D8}
-Katarzyna Pietrzyk
-| '{44FBFCF5-
-4430-4964-878D- 1867D679E0D}*|
+
+| Name Surname (initials) | GUID                                     |
+| ----------------------- | ---------------------------------------- |
+| KP                      | `{96eaa251-6bd4-411c-8595-6c687f841b9a}` |
+| Katarzyna Pietrzyk      | `{337761df-64ed-48b3-b6b9-72e0e0c9aa5e}` |
